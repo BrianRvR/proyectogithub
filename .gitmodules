@@ -1,0 +1,3 @@
+[submodule "lib/matlib"]
+	path = lib/matlib
+	url = https://github.com/BrianRvR/matlib.git
